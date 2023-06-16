@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 50px; 
+}
+
+.numberHover:hover{
+    background-color: gainsboro !important;
+}
+
+.successBackground{
+    background-color: rgb(115, 188, 6) !important;
+}
+
+.errorBackground{
+    background-color: red !important;
+}
+#start_game{
+    margin-bottom: 20px;
+}

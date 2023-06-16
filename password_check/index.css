@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px; 
+}
+#input_container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#main_container{
+    margin-top: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.eye{
+    margin-left: 20px;
+}
+#input{
+    width: 250px;
+    height: 30px;
+    border-radius: 10px;
+}
+#password_message{
+    margin-top: 10px;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 15px;
+}
+
